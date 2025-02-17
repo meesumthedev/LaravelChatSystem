@@ -190,9 +190,3 @@ This project is open-source software licensed under the [MIT license](https://op
 ```
 
 ---
-
-### Notes:
-1. Replace `https://github.com/yourusername/your-repo-name.git` with your actual repository URL.
-2. Add a real preview image link instead of the placeholder.
-3. Update the `.env` configuration values if needed.
-4. Customize the README further based on your project's specific requirements.
